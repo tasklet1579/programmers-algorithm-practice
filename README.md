@@ -1,4 +1,4 @@
-### 연습문제
+✍️ 연습문제
 
 |난이도|제목|내용|코드|
 |---|---|---|---|
@@ -26,7 +26,7 @@
 |Level 1|예산|[바로 가기](./src/edu/programmers/practice/all/level1/p12982/description.md)|[바로 가기](./src/edu/programmers/practice/all/level1/p12982/Main.java)|
 
 
-### 고득점 Kit
+✍️ 고득점 Kit
 
 |유형|제목|내용|코드|
 |---|---|---|---|
