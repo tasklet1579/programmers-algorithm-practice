@@ -28,6 +28,12 @@
 |Level 1|나누어 떨어지는 숫자 배열|[바로 가기](src/edu/programmers/practice/all/level1/p12910/description.md)|[바로 가기](src/edu/programmers/practice/all/level1/p12910/Main.java)|
 |Level 1|소수 찾기 |[바로 가기](src/edu/programmers/practice/all/level1/p12921/description.md)|[바로 가기](src/edu/programmers/practice/all/level1/p12921/Main.java)|
 
+✍️ 월간 코드 챌린지
+
+|시즌|제목|내용|코드|
+|---|---|---|---|
+|3|나머지가 1이 되는 수 찾기|[바로 가기](src/edu/programmers/practice/monthly/code/p87389/description.md)|[바로 가기](src/edu/programmers/practice/monthly/code/p87389/Main.java)|
+
 ✍️ 고득점 Kit
 
 |유형|제목|내용|코드|
