@@ -27,6 +27,7 @@
 |Level 1|두 정수 사이의 합|[바로 가기](src/edu/programmers/practice/all/level1/p12912/description.md)|[바로 가기](src/edu/programmers/practice/all/level1/p12912/Main.java)|
 |Level 1|나누어 떨어지는 숫자 배열|[바로 가기](src/edu/programmers/practice/all/level1/p12910/description.md)|[바로 가기](src/edu/programmers/practice/all/level1/p12910/Main.java)|
 |Level 1|소수 찾기 |[바로 가기](src/edu/programmers/practice/all/level1/p12921/description.md)|[바로 가기](src/edu/programmers/practice/all/level1/p12921/Main.java)|
+|Level 1|최대공약수와 최소공배수|[바로 가기](src/edu/programmers/practice/all/level1/p12940/description.md)|[바로 가기](src/edu/programmers/practice/all/level1/p12940/Main.java)|
 
 ✍️ 월간 코드 챌린지
 
