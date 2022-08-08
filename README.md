@@ -35,6 +35,12 @@
 |---|---|---|---|
 |3|나머지가 1이 되는 수 찾기|[바로 가기](src/edu/programmers/practice/monthly/code/p87389/description.md)|[바로 가기](src/edu/programmers/practice/monthly/code/p87389/Main.java)|
 
+✍️ Summer/Winter Coding
+
+|년도|제목|내용|코드|
+|---|---|---|---|
+|2018|숫자 게임|[바로 가기](src/edu/programmers/practice/intern/coding/p12987/description.md)|[바로 가기](src/edu/programmers/practice/intern/coding/p12987/Main.java)|
+
 ✍️ 고득점 Kit
 
 |유형|제목|내용|코드|
