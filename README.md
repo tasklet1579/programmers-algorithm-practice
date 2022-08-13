@@ -35,6 +35,7 @@
 |---|---|---|---|
 |1|두 개 뽑아서 더하기|[바로 가기](src/edu/programmers/practice/monthly/code/p68644/description.md)|[바로 가기](src/edu/programmers/practice/monthly/code/p68644/Main.java)|
 |1|3진법 뒤집기|[바로 가기](src/edu/programmers/practice/monthly/code/p68935/description.md)|[바로 가기](src/edu/programmers/practice/monthly/code/p68935/Main.java)|
+|1|내적|[바로 가기](src/edu/programmers/practice/monthly/code/p68935/description.md)|[바로 가기](src/edu/programmers/practice/monthly/code/p68935/Main.java)|
 |3|나머지가 1이 되는 수 찾기|[바로 가기](src/edu/programmers/practice/monthly/code/p87389/description.md)|[바로 가기](src/edu/programmers/practice/monthly/code/p87389/Main.java)|
 
 ✍️ Summer/Winter Coding
