@@ -49,6 +49,7 @@
 
 |유형|제목|내용|코드|
 |---|---|---|---|
+|해시|폰켓몬|[바로 가기](src/edu/programmers/practice/kit/hash/p1845/description.md)|[바로 가기](src/edu/programmers/practice/kit/hash/p1845/Main.java)|
 |큐|기능개발|[바로 가기](src/edu/programmers/practice/kit/queue/p42586/description.md)|[바로 가기](src/edu/programmers/practice/kit/queue/p42586/Main.java)|
 |큐|프린터|[바로 가기](src/edu/programmers/practice/kit/queue/p42587/description.md)|[바로 가기](src/edu/programmers/practice/kit/queue/p42587/Main.java)|
 |큐|다리를 지나는 트럭|[바로 가기](src/edu/programmers/practice/kit/queue/p42583/description.md)|[바로 가기](src/edu/programmers/practice/kit/queue/p42583/Main.java)|
