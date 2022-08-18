@@ -46,6 +46,12 @@
 |---|---|---|---|
 |2018|숫자 게임|[바로 가기](src/edu/programmers/practice/intern/coding/p12987/description.md)|[바로 가기](src/edu/programmers/practice/intern/coding/p12987/Main.java)|
 
+✍️ 팁스타운
+
+|년도|제목|내용|코드|
+|---|---|---|---|
+|2017|짝지어 제거하기|[바로 가기](src/edu/programmers/practice/tips/town/p12973/description.md)|[바로 가기](src/edu/programmers/practice/tips/town/p12973/Main.java)|
+
 ✍️ 고득점 Kit
 
 |유형|제목|내용|코드|
