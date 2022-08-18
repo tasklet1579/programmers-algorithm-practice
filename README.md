@@ -45,6 +45,7 @@
 |년도|제목|내용|코드|
 |---|---|---|---|
 |2018|숫자 게임|[바로 가기](src/edu/programmers/practice/intern/coding/p12987/description.md)|[바로 가기](src/edu/programmers/practice/intern/coding/p12987/Main.java)|
+|2018|숫자 게임|[바로 가기](src/edu/programmers/practice/intern/coding/p49993/description.md)|[바로 가기](src/edu/programmers/practice/intern/coding/p49993/Main.java)|
 
 ✍️ 팁스타운
 
