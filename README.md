@@ -69,4 +69,4 @@
 |완전탐색|카펫|[바로 가기](src/edu/programmers/practice/kit/bf/p42842/description.md)|[바로 가기](src/edu/programmers/practice/kit/bf/p42842/Main.java)|
 |동적계획법|정수 삼각형|[바로 가기](src/edu/programmers/practice/kit/dp/p43105/description.md)|[바로 가기](src/edu/programmers/practice/kit/dp/p43105/Main.java)|
 |너비 우선 탐색|게임 맵 최단거리|[바로 가기](src/edu/programmers/practice/kit/bfs/p1844/description.md)|[바로 가기](src/edu/programmers/practice/kit/bfs/p1844/Main.java)|
-|너비 우선 탐색|게임 맵 최단거리|[바로 가기](src/edu/programmers/practice/kit/bfs/p43164/description.md)|[바로 가기](src/edu/programmers/practice/kit/bfs/p43164/Main.java)|
+|너비 우선 탐색|여행경로|[바로 가기](src/edu/programmers/practice/kit/bfs/p43164/description.md)|[바로 가기](src/edu/programmers/practice/kit/bfs/p43164/Main.java)|
