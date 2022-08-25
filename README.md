@@ -29,6 +29,7 @@
 |Level 1|소수 찾기 |[바로 가기](src/edu/programmers/practice/all/level1/p12921/description.md)|[바로 가기](src/edu/programmers/practice/all/level1/p12921/Main.java)|
 |Level 1|최대공약수와 최소공배수|[바로 가기](src/edu/programmers/practice/all/level1/p12940/description.md)|[바로 가기](src/edu/programmers/practice/all/level1/p12940/Main.java)|
 |Level 2|JadenCase 문자열 만들기|[바로 가기](src/edu/programmers/practice/all/level2/p12951/description.md)|[바로 가기](src/edu/programmers/practice/all/level2/p12951/Main.java)|
+|Level 2|숫자의 표현|[바로 가기](src/edu/programmers/practice/all/level2/p12924/description.md)|[바로 가기](src/edu/programmers/practice/all/level2/p12924/Main.java)|
 
 ✍️ 월간 코드 챌린지
 
