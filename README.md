@@ -67,6 +67,7 @@
 |정렬|가장 큰 수|[바로 가기](src/edu/programmers/practice/kit/sort/p42746/description.md)|[바로 가기](src/edu/programmers/practice/kit/sort/p42746/Main.java)|
 |완전탐색|모의고사|[바로 가기](src/edu/programmers/practice/kit/bf/p42840/description.md)|[바로 가기](src/edu/programmers/practice/kit/bf/p42840/Main.java)|
 |완전탐색|카펫|[바로 가기](src/edu/programmers/practice/kit/bf/p42842/description.md)|[바로 가기](src/edu/programmers/practice/kit/bf/p42842/Main.java)|
+|탐욕법|체육복|[바로 가기](src/edu/programmers/practice/kit/greedy/p42862/description.md)|[바로 가기](src/edu/programmers/practice/kit/greedy/p42862/Main.java)|
 |동적계획법|정수 삼각형|[바로 가기](src/edu/programmers/practice/kit/dp/p43105/description.md)|[바로 가기](src/edu/programmers/practice/kit/dp/p43105/Main.java)|
 |너비 우선 탐색|게임 맵 최단거리|[바로 가기](src/edu/programmers/practice/kit/bfs/p1844/description.md)|[바로 가기](src/edu/programmers/practice/kit/bfs/p1844/Main.java)|
 |너비 우선 탐색|여행경로|[바로 가기](src/edu/programmers/practice/kit/bfs/p43164/description.md)|[바로 가기](src/edu/programmers/practice/kit/bfs/p43164/Main.java)|
