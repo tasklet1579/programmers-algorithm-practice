@@ -65,6 +65,7 @@
 |큐|다리를 지나는 트럭|[바로 가기](src/edu/programmers/practice/kit/queue/p42583/description.md)|[바로 가기](src/edu/programmers/practice/kit/queue/p42583/Main.java)|
 |정렬|K번째수|[바로 가기](src/edu/programmers/practice/kit/sort/p42748/description.md)|[바로 가기](src/edu/programmers/practice/kit/sort/p42748/Main.java)|
 |정렬|가장 큰 수|[바로 가기](src/edu/programmers/practice/kit/sort/p42746/description.md)|[바로 가기](src/edu/programmers/practice/kit/sort/p42746/Main.java)|
+|정렬|H-Index|[바로 가기](src/edu/programmers/practice/kit/sort/p42747/description.md)|[바로 가기](src/edu/programmers/practice/kit/sort/p42747/Main.java)|
 |완전탐색|모의고사|[바로 가기](src/edu/programmers/practice/kit/bf/p42840/description.md)|[바로 가기](src/edu/programmers/practice/kit/bf/p42840/Main.java)|
 |완전탐색|카펫|[바로 가기](src/edu/programmers/practice/kit/bf/p42842/description.md)|[바로 가기](src/edu/programmers/practice/kit/bf/p42842/Main.java)|
 |탐욕법|체육복|[바로 가기](src/edu/programmers/practice/kit/greedy/p42862/description.md)|[바로 가기](src/edu/programmers/practice/kit/greedy/p42862/Main.java)|
